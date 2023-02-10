@@ -2,7 +2,7 @@
 Getting into the habit of coding by making a Calculator with a GUI :) 
 
 To Do before start:
-  1. Download Visual Studio Code (i'll add extensions later)
+  1. Download Visual Studio Code (I'll add a list of extensions later)
   2. Download GitBash
   3. Make a GitHub account
   
@@ -12,7 +12,9 @@ version control with 'GitHub'
 
 Self Learning:
   1. Find out what GitHub is, do some sandbox training online
-      https://www.w3schools.com/git/git_exercises.asp
+      Info: https://www.w3schools.com/git/default.asp?remote=github
+      Ptactise: https://www.w3schools.com/git/git_exercises.asp
+      Better Practise: https://learngitbranching.js.org/
   2. Watch some basic videos about VSC
   3. Watch some basic videos about Typescript and React 
 
