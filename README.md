@@ -7,8 +7,10 @@ To Do before start:
   3. Make a GitHub account
   
   
-Important Info: We're working in a 'React' framework using 'Typescript' and maintaining
+Project: We're working in a 'React' framework using 'Typescript' and maintaining
 version control with 'GitHub'
+
+JIRA Board: https://ash-jira-board.atlassian.net/jira/software/projects/TC/boards/1
 
 Self Learning:
   1. Find out what GitHub is, do some sandbox training online
