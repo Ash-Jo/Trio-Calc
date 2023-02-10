@@ -2,8 +2,8 @@
 Getting into the habit of coding by making a Calculator with a GUI :) 
 
 To Do before start:
-  1. Visual Studio Code (i'll add extensions later)
-  2. GitBash
+  1. Download Visual Studio Code (i'll add extensions later)
+  2. Download GitBash
   3. Make a GitHub account
   
   
